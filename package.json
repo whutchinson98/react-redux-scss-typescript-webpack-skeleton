@@ -51,7 +51,10 @@
     "dotenv": "^8.2.0",
     "enzyme-adapter-react-17-updated": "^1.0.2",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "react-redux": "^7.2.3",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0"
   },
   "jest": {
     "setupFilesAfterEnv": [
