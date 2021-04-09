@@ -1,4 +1,4 @@
-# React Redux TypeScrpit Webpack Skeleton
+# React Redux TypeScript SCSS Skeleton
 
 ## About
 
