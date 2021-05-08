@@ -6,7 +6,7 @@
   "scripts": {
     "build": "webpack --mode production --progress",
     "build:dev": "webpack serve --open --hot --mode development",
-    "lint": "node ./node_modules/eslint/bin/eslint.js src/**/*.tsx",
+    "lint": "node ./node_modules/eslint/bin/eslint.js ./src/**/*.tsx",
     "test": "jest --testTimeout=3000 --silent --runInBand --detectOpenHandles --forceExit",
     "check-type": "tsc -w"
   },
